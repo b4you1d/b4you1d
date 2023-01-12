@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**b4you1d/b4you1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**b4you1d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
